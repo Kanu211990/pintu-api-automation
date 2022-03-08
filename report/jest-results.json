@@ -1,0 +1,114 @@
+{
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTestSuites": 2,
+  "numPassedTests": 2,
+  "numPendingTestSuites": 0,
+  "numPendingTests": 0,
+  "numRuntimeErrorTestSuites": 0,
+  "numTodoTests": 0,
+  "numTotalTestSuites": 2,
+  "numTotalTests": 2,
+  "openHandles": [],
+  "snapshot": {
+    "added": 0,
+    "didUpdate": false,
+    "failure": false,
+    "filesAdded": 0,
+    "filesRemoved": 0,
+    "filesRemovedList": [],
+    "filesUnmatched": 0,
+    "filesUpdated": 0,
+    "matched": 0,
+    "total": 0,
+    "unchecked": 0,
+    "uncheckedKeysByFile": [],
+    "unmatched": 0,
+    "updated": 0
+  },
+  "startTime": 1646499237301,
+  "success": true,
+  "testResults": [
+    {
+      "leaks": false,
+      "numFailingTests": 0,
+      "numPassingTests": 1,
+      "numPendingTests": 0,
+      "numTodoTests": 0,
+      "openHandles": [],
+      "perfStats": {
+        "end": 1646499238724,
+        "runtime": 921,
+        "slow": false,
+        "start": 1646499237803
+      },
+      "skipped": false,
+      "snapshot": {
+        "added": 0,
+        "fileDeleted": false,
+        "matched": 0,
+        "unchecked": 0,
+        "unmatched": 0,
+        "updated": 0,
+        "uncheckedKeys": []
+      },
+      "testFilePath": "/Users/kanupriyakakkar/pintu-api-automation/test/get-user-details.test.js",
+      "testResults": [
+        {
+          "ancestorTitles": [
+            "Get user details Testcases"
+          ],
+          "duration": 224,
+          "failureMessages": [],
+          "fullName": "Get user details Testcases [GET] user details > response 200",
+          "location": null,
+          "numPassingAsserts": 0,
+          "status": "passed",
+          "title": "[GET] user details > response 200"
+        }
+      ],
+      "failureMessage": null
+    },
+    {
+      "leaks": false,
+      "numFailingTests": 0,
+      "numPassingTests": 1,
+      "numPendingTests": 0,
+      "numTodoTests": 0,
+      "openHandles": [],
+      "perfStats": {
+        "end": 1646499239356,
+        "runtime": 1553,
+        "slow": false,
+        "start": 1646499237803
+      },
+      "skipped": false,
+      "snapshot": {
+        "added": 0,
+        "fileDeleted": false,
+        "matched": 0,
+        "unchecked": 0,
+        "unmatched": 0,
+        "updated": 0,
+        "uncheckedKeys": []
+      },
+      "testFilePath": "/Users/kanupriyakakkar/pintu-api-automation/test/post-user-details.test.js",
+      "testResults": [
+        {
+          "ancestorTitles": [
+            "Create user details Testcases"
+          ],
+          "duration": 731,
+          "failureMessages": [],
+          "fullName": "Create user details Testcases [POST] create user details successfully > response 201",
+          "location": null,
+          "numPassingAsserts": 0,
+          "status": "passed",
+          "title": "[POST] create user details successfully > response 201"
+        }
+      ],
+      "failureMessage": null
+    }
+  ],
+  "wasInterrupted": false
+}

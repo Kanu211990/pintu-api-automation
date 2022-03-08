@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="2" failures="0" errors="0" time="2.128">
+  <testsuite name="test/get-user-details.test.js" errors="0" failures="0" skipped="0" timestamp="2022-03-05T16:53:57" time="0.921" tests="1">
+    <testcase classname="Get user details Testcases-[GET] user details &gt; response 200" name="Get user details Testcases-[GET] user details &gt; response 200" time="0.224">
+    </testcase>
+  </testsuite>
+  <testsuite name="test/post-user-details.test.js" errors="0" failures="0" skipped="0" timestamp="2022-03-05T16:53:57" time="1.553" tests="1">
+    <testcase classname="Create user details Testcases-[POST] create user details successfully &gt; response 201" name="Create user details Testcases-[POST] create user details successfully &gt; response 201" time="0.731">
+    </testcase>
+  </testsuite>
+</testsuites>
